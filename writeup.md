@@ -148,7 +148,7 @@ I can see from this feature map that the background is well ignored, and key fea
 
 [//]: # (Image References)
 
-[image1]: ./data_set_histogram "Data Set Histogram"
+[image1]: ./data_set_histogram.png "Data Set Histogram"
 [image2]: ./original.png "Original Image"
 [image3]: ./grayscale.png "Grayscale Image"
 [image4]: ./normalized.png "Normalized Image"
@@ -157,6 +157,6 @@ I can see from this feature map that the background is well ignored, and key fea
 [image7]: ./web_samples/im_cropped_resized2.jpg "Web sample 2"
 [image8]: ./web_samples/im_cropped_resized3.jpg "Web sample 3"
 [image9]: ./web_samples/im_cropped_resized4.jpg "Web sample 4"
-[image10]: ./softmax_probs.png "Top 5 probabilities"
-[image11]: ./feature_map_layer1.png "Feature map layer 1"
+[image10]: ./sofmax_probs.png "Top 5 probabilities"
+[image11]: ./feature_map_layer1.PNG "Feature map layer 1"
 
