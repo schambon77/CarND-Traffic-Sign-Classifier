@@ -34,4 +34,10 @@ Running cells that use the trained model without going through the entire retrai
 ### Jupyter notebook exported as html: [Traffic_Sign_Classifier.html](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.html)
 
 ### Write up: [writeup.md](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/writeup.md)
-This write up provides answers and explanations to the [project rubric points](https://review.udacity.com/#!/rubrics/481/view).
+This write up provides answers and explanations to the [project rubric points](https://review.udacity.com/#!/rubrics/481/view), including additional pictures:
+* [data_set_histogram.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/data_set_histogram.png)
+* [original.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/original.png)
+* [grayscale.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/grayscale.png)
+* [normalized.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/normalized.png)
+* [softmax_probs.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/softmax_probs.png)
+* [feature_map_layer1.png](https://github.com/schambon77/CarND-Traffic-Sign-Classifier/blob/master/feature_map_layer1.png)
